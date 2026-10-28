@@ -24,6 +24,8 @@ You have a few options to get started:
 - [![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/deploy/podly?referralCode=NMdeg5&utm_medium=integration&utm_source=template&utm_campaign=generic)
    - quick and easy setup in the cloud, follow our [Railway deployment guide](docs/how_to_run_railway.md). 
    - Use this if you want to share your Podly server with others.
+- [![Deploy to Light Cloud](https://light-cloud.com/button.svg)](https://console.light-cloud.com/new?repo=https://github.com/podly-pure-podcasts/podly_pure_podcasts)
+   - one-click setup in the cloud from this repository.
 - **Run Locally**: 
    - For local development and customization, 
    - see our [beginner's guide for running locally](docs/how_to_run_beginners.md). 
